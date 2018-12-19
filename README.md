@@ -7,5 +7,5 @@ Durant l'option HOPE, les étudiants conçoivent des jeux originaux autour d'enj
 * [Fake or not](FakeOrNot), sur les mécanismes de propagation des fake news
 * [LovTech](LovTech), sur l'impact des nouvelles technologies sur les relations de couples
 * [Jeu de l'oie sociale](OieSociale), sur les risques et bénéfices d'un large partage d'informations sur les réseaux sociaux
-* L'impact, tout autant positif que négatif, des technologies sur l'environnement [ici](https://drive.google.com/open?id=1t_nDAcxCdvUbe8HdUV2UKMG7zebF7Uh7)
+* [L'impact, tout autant positif que négatif, des technologies sur l'environnement](https://drive.google.com/open?id=1t_nDAcxCdvUbe8HdUV2UKMG7zebF7Uh7)
 
