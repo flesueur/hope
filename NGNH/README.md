@@ -1,12 +1,7 @@
 # NO GREEN NO HOPE
 #### par Godefroy Goffe, Nicolas Jacquiot, Victor Bequet et Théophile Lemarié
 
-<<<<<<< Updated upstream
-Ce jeu vise à interroger notre rôle dans la pollution environnementale liée au numérique. Il se joue à trois. Chacun incarnera un rôle parmi les suivants :  Utilisateur, Etat ou Entreprise. Faites vos choix tout au long des cinq tours, tentez de remplir vos objectifs respectifs, mais attention ! Si la réglette d'environnement tombe à zéro, votre planête sera si polluée que tout le monde perdra la partie. 
-
-=======
 Ce jeu vise à interroger notre rôle dans la pollution environnementale liée au numérique. Il se joue à trois. Chacun incarnera un rôle parmi les suivants :  Utilisateur, Etat ou Entreprise. Faites vos choix tout au long des cinq tours, tentez de remplir vos objectifs respectifs, mais attention ! Si la réglette d'environnement tombe à zéro, votre planète sera si polluée que tout le monde perdra la partie. 
->>>>>>> Stashed changes
 Bonne chance, et agissez responsablement. 
 
 ### Organisation du repo
