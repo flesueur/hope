@@ -1,6 +1,10 @@
 # Perspectives
 
+*Aurélie GALEA, Loïc GARNIER, Pauline SCHMITT et Kaloyan VESELINOV*
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+**Perspectives** est un jeu qui vous permet de vous rendre compte de la multitude de choix à laquelle nous devons faire face au cours d’une vie, et de l’impact que peut avoir Internet dans la prise de décision.
 
 ## Table des matières
 
@@ -102,8 +106,6 @@ Si vous voulez ajouter/modifier des cartes du jeu, la procédure est la suivante
 ---
 
 ## Crédits
-
-Ce jeu a été conçu par Aurélie GALEA, Loïc GARNIER, Pauline SCHMITT et Kaloyan VESELINOV.
 
 ### Crédit logo
 
