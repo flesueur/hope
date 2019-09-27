@@ -34,21 +34,44 @@ Ce dossier contient les différents logos, avec les projets [GIMP](https://www.g
 
 Il s'agit du livret qui contient les règles du jeu, ainsi que les conséquences possibles des différentes cartes choix (un peu comme dans un livre dont vous êtes le héros).
 
+---
+
 ### pdf
 
 Le dossier `pdf` contient un export des différents documents Word utilisés.
 
+---
+
 ### print
 
 #### print/Fichiers_individuels
+ 
+Il s'agit de fichiers d'impression pour chaque type de carte. Puisque les cartes sont au format A7, on a 8 cartes par page A4.
 
-Il s'agit de fichiers d'impression pour chaque type de carte. Puisque les cartes sont au format A7, on a 
+Pour les dos de cartes, il s'agit d'une matrice complète de 8 dos de cartes A7. Vous pouvez utiliser ce fichier pour imprimer le bon nombre de dos de cartes pour le jeu (par multiples de 8).
 
+#### print/Perspectives_cartes_arriere.pdf
+
+Il s'agit du fichier d'impression pour les dos de cartes (il y a le bon nombre de de pages pour le nombre courant de pages). Pour générer ce fichier, nous avons utilisé [pdfmerge](https://www.pdfmerge.com/), en mettant le bon nombre de fois chaque fichier de dos de cartes.
+
+#### print/Perspectives_cartes_avant.pdf
+
+Il s'agit du fichier d'impression pour toutes les faces avant des cartes. Pour générer ce fichier, on avons utilisé [pdfmerge](https://www.pdfmerge.com/), en unissant les différents fichiers `_avant.pdf` du dossier `Fichiers individuels`.
+
+---
 
 ## Consignes d'impression
 Les fichiers `Perspectives_cartes_arriere.pdf` et `Perspectives_cartes_avant.pdf` sont à imprimer en face unique. 
 Le fichier `Perspectives_regles_du_jeu.pdf` est à imprimer en recto verso. 
 Tous les fichiers sont à imprimer en couleur 
+
+## Consignes de contribution
+
+Si vous voulez ajouter/modifier des cartes du jeu, la procédure est la suivante :
+- modifier le document Word correspondant dans le dossier `src/Cartes` ;
+- exporter ce document en pdf en allant dans **Fichier > Exporter > Créer un document PDF/XPS** (la procédure est disponible [ici](https://support.office.com/fr-fr/article/enregistrer-ou-convertir-au-format-pdf-ou-xps-d85416c5-7d77-4fd6-a216-6f4bf7c7c110?ui=fr-FR&rs=fr-FR&ad=FR) ; vous devez sauvegarder ce nouveau fichier dans le dossier `pdf` ;
+- ouvrir ce nouveau fichier pdf avec Acrobat Reader, appuyer sur **Imprimer**, et choisissez une matrice 4 par 2 pages par feuille, avec ordre des pages Horizontal, avec Impression du contour, et Orientation Paysage ; le format de page choisi est A4 ; sauvegarder ce nouveau fichier dans `print/Fichiers_individuels` ; vous pouvez ensuite imprimer uniquement ce nouveau fichier (si vous avez déjà imprimé le reste du jeu) ;
+- regénérez les documents d'impression globaux avec [pdfmerge](https://www.pdfmerge.com/).
 
 ## Crédits
 
