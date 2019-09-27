@@ -2,6 +2,8 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+---
+
 ## Structure du repo
 
 ### src
@@ -65,6 +67,8 @@ Les fichiers `Perspectives_cartes_arriere.pdf` et `Perspectives_cartes_avant.pdf
 Le fichier `Perspectives_regles_du_jeu.pdf` est à imprimer en recto verso. 
 Tous les fichiers sont à imprimer en couleur 
 
+---
+
 ## Consignes de contribution
 
 Si vous voulez ajouter/modifier des cartes du jeu, la procédure est la suivante :
@@ -72,6 +76,8 @@ Si vous voulez ajouter/modifier des cartes du jeu, la procédure est la suivante
 - exporter ce document en pdf en allant dans **Fichier > Exporter > Créer un document PDF/XPS** (la procédure est disponible [ici](https://support.office.com/fr-fr/article/enregistrer-ou-convertir-au-format-pdf-ou-xps-d85416c5-7d77-4fd6-a216-6f4bf7c7c110?ui=fr-FR&rs=fr-FR&ad=FR) ; vous devez sauvegarder ce nouveau fichier dans le dossier `pdf` ;
 - ouvrir ce nouveau fichier pdf avec Acrobat Reader, appuyer sur **Imprimer**, et choisissez une matrice 4 par 2 pages par feuille, avec ordre des pages Horizontal, avec Impression du contour, et Orientation Paysage ; le format de page choisi est A4 ; sauvegarder ce nouveau fichier dans `print/Fichiers_individuels` ; vous pouvez ensuite imprimer uniquement ce nouveau fichier (si vous avez déjà imprimé le reste du jeu) ;
 - regénérez les documents d'impression globaux avec [pdfmerge](https://www.pdfmerge.com/).
+
+---
 
 ## Crédits
 
