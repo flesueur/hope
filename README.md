@@ -2,6 +2,9 @@
 
 Durant l'option HOPE, les étudiants conçoivent des jeux originaux autour d'enjeux socio-techniques. Ce dépôt met à disposition ces réalisations.
 
+2019-2020 :
+* [No Green No Hope](NGNH), sur la pollution environnementale liée au numérique
+
 2018-2019 :
 
 * [Fake or not](FakeOrNot), sur les mécanismes de propagation des fake news
