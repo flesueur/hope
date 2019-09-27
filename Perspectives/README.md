@@ -2,6 +2,28 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+## Table des matières
+
+- [Perspectives](#perspectives)
+  - [Table des matières](#table-des-mati%c3%a8res)
+  - [Structure du repo](#structure-du-repo)
+    - [src](#src)
+      - [src/Cartes](#srccartes)
+        - [src/Cartes/Templates_arriere](#srccartestemplatesarriere)
+        - [src/Cartes/Templates_avant](#srccartestemplatesavant)
+        - [src/Cartes/Perspectives_cartes_\*.docx](#srccartesperspectivescartesdocx)
+      - [src/Logo](#srclogo)
+      - [src/Perspectives_regles_du_jeu.docx](#srcperspectivesreglesdujeudocx)
+    - [pdf](#pdf)
+    - [print](#print)
+      - [print/Fichiers_individuels](#printfichiersindividuels)
+      - [print/Perspectives_cartes_arriere.pdf](#printperspectivescartesarrierepdf)
+      - [print/Perspectives_cartes_avant.pdf](#printperspectivescartesavantpdf)
+  - [Consignes d'impression](#consignes-dimpression)
+  - [Consignes de contribution](#consignes-de-contribution)
+  - [Crédits](#cr%c3%a9dits)
+    - [Crédit logo](#cr%c3%a9dit-logo)
+
 ---
 
 ## Structure du repo
