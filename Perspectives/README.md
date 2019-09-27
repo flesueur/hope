@@ -103,6 +103,8 @@ Si vous voulez ajouter/modifier des cartes du jeu, la procédure est la suivante
 
 ## Crédits
 
+Ce jeu a été conçu par Aurélie GALEA, Loïc GARNIER, Pauline SCHMITT et Kaloyan VESELINOV.
+
 ### Crédit logo
 
 Anita Ponne/ Shutterstock (<https://www.shutterstock.com/fr/image-vector/human-brain-creativity-intellect-eps10-vector-201704261>)
