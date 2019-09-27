@@ -70,13 +70,13 @@ Le dossier `pdf` contient un export des différents documents Word utilisés.
 
 #### print/Fichiers_individuels
  
-Il s'agit de fichiers d'impression pour chaque type de carte. Puisque les cartes sont au format A7, on a 8 cartes par page A4.
+Il s'agit de fichiers d'impression pour chaque type de carte. Puisque les cartes sont au format A7, il y a 8 cartes par page A4.
 
 Pour les dos de cartes, il s'agit d'une matrice complète de 8 dos de cartes A7. Vous pouvez utiliser ce fichier pour imprimer le bon nombre de dos de cartes pour le jeu (par multiples de 8).
 
 #### print/Perspectives_cartes_arriere.pdf
 
-Il s'agit du fichier d'impression pour les dos de cartes (il y a le bon nombre de de pages pour le nombre courant de pages). Pour générer ce fichier, nous avons utilisé [pdfmerge](https://www.pdfmerge.com/), en mettant le bon nombre de fois chaque fichier de dos de cartes.
+Il s'agit du fichier d'impression pour les dos de cartes (il y a le bon nombre de de pages pour le nombre courant de cartes). Pour générer ce fichier, nous avons utilisé [pdfmerge](https://www.pdfmerge.com/), en mettant le bon nombre de fois chaque fichier de dos de cartes.
 
 #### print/Perspectives_cartes_avant.pdf
 
