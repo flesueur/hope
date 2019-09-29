@@ -4,6 +4,7 @@ Durant l'option HOPE, les étudiants conçoivent des jeux originaux autour d'enj
 
 2019-2020 :
 * [No Green No Hope](NGNH), sur la pollution environnementale liée au numérique
+* [Perspectives](Perspectives), sur l'impact d'internet lors des grands choix au cours de la vie
 
 2018-2019 :
 
