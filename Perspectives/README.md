@@ -62,6 +62,10 @@ Ce dossier contient les différents logos, avec les projets [GIMP](https://www.g
 
 Il s'agit du livret qui contient les règles du jeu, ainsi que les conséquences possibles des différentes cartes choix (un peu comme dans un livre dont vous êtes le héros).
 
+#### src/Perspectives_plateau_de_jeu.docx
+
+Il s'agit du plateau utilisé pour le jeu.
+
 ---
 
 ### pdf
@@ -72,7 +76,7 @@ Le dossier `pdf` contient un export des différents documents Word utilisés.
 
 ### print
 
-#### print/Fichiers_individuels
+#### print/Fichiers_individuels_cartes
  
 Il s'agit de fichiers d'impression pour chaque type de carte. Puisque les cartes sont au format A7, il y a 8 cartes par page A4.
 
@@ -86,10 +90,18 @@ Il s'agit du fichier d'impression pour les dos de cartes (il y a le bon nombre d
 
 Il s'agit du fichier d'impression pour toutes les faces avant des cartes. Pour générer ce fichier, on avons utilisé [pdfmerge](https://www.pdfmerge.com/), en unissant les différents fichiers `_avant.pdf` du dossier `Fichiers individuels`.
 
+#### print/Perspectives_plateau_de_jeu.pdf
+
+Plateau de jeu au format pdf. À imprimer au **format A3**.
+
+#### print/Perspectives_regles_du_jeu.pdf
+
+Règles du jeu. À imprimer au **format A4**.
+
 ---
 
 ## Consignes d'impression
-Les fichiers `Perspectives_cartes_arriere.pdf` et `Perspectives_cartes_avant.pdf` sont à imprimer en face unique. 
+Les fichiers `Perspectives_cartes_arriere.pdf`, `Perspectives_cartes_avant.pdf` et `Perspectives_plateau_de_jeu.pdf` sont à imprimer en face unique. 
 Le fichier `Perspectives_regles_du_jeu.pdf` est à imprimer en recto verso. 
 Tous les fichiers sont à imprimer en couleur 
 
