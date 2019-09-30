@@ -5,9 +5,9 @@ Durant l'option HOPE, les étudiants conçoivent des jeux originaux autour d'enj
 2019-2020 :
 * [No Green No Hope](NGNH), sur la pollution environnementale liée au numérique
 * [Perspectives](Perspectives), sur l'impact d'internet lors des grands choix au cours de la vie
+* [Agora](Agora), sur l'influence des réseaux sociaux sur notre construction identaire
 
 2018-2019 :
-
 * [Fake or not](FakeOrNot), sur les mécanismes de propagation des fake news
 * [LovTech](LovTech), sur l'impact des nouvelles technologies sur les relations de couples
 * [Jeu de l'oie sociale](OieSociale), sur les risques et bénéfices d'un large partage d'informations sur les réseaux sociaux
