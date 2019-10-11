@@ -6,7 +6,7 @@ Durant l'option HOPE, les étudiants conçoivent des jeux originaux autour d'enj
 * [No Green No Hope](NGNH), sur la pollution environnementale liée au numérique
 * [Perspectives](Perspectives), sur l'impact d'internet lors des grands choix au cours de la vie
 * [Agora](Agora), sur l'influence des réseaux sociaux sur notre construction identaire
-* [La petite boite noire](https://github.com/hope-5TC-freedom-in-ux) sur l'influence de l'interface utilisateur sur (l'absence de) liberté
+* [La petite boite noire](https://github.com/hope-5TC-freedom-in-ux/docker) sur l'influence de l'interface utilisateur sur (l'absence de) liberté
 
 2018-2019 :
 * [Fake or not](FakeOrNot), sur les mécanismes de propagation des fake news
